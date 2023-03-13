@@ -1,20 +1,18 @@
 ---
 layout: page
-title: Materials
-permalink: /materials/
+title: Material
+permalink: /material/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+{% include image.html url="/_images/dlwp.jpg" width=175 align="right" href='https://www.manning.com/books/deep-learning-with-pytorch' %}
 
 ## Book
 
-Alan Turing and Noam Chomsky: Very Famous Book
+* Stevens, Eli, Luca Antiga, and Thomas Viehmann. Deep learning with PyTorch. Manning Publications, 2020.
 
-## Additional Course Materials
+## Additional Course Material
 
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
-* [Material #3](http://www.example.com/): how a computer chess player thinks!
-* [Material #4](http://www.example.com/): how a computer chess player thinks!
-* [Material #5](http://www.example.com/): how a computer chess player thinks!
+* If you are not familiar with Python programming, here is a short tutorial I gave some time ago.
+* [Python Slides Part 1](static_files/presentations/python/isde_tutoring_01.pdf): simple and short Python tutorial to get you started (part 1).
+* [Python Slides Part 2](static_files/presentations/python/isde_tutoring_02.pdf): simple and short Python tutorial to get you started (part 1).
+* [Advanced Python tutorials](https://www.youtube.com/@ArjanCodes): YouTube channel with advanced Python tutorials

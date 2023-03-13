@@ -26,11 +26,6 @@ layout: default
     <br>
     <div>
         <div style="width:35%; float: left">
-            <!-- <h2>Instructors</h2> -->
-            <!-- <div class="image--cover-container">
-                <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                <p>{{site.data.people.instructor.name}}</p>
-            </div> -->
 
             <div class="profile-pic-gallary ">
                 <h2>Instructors</h2>
@@ -47,6 +42,7 @@ layout: default
             </div>
         </div>
 
+        {% if site.data.people and site.data.people.teaching_assistants and site.data.people.teaching_assistants.size > 0 %}
         <div style="width:65%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Teaching Assistants</h2>
@@ -62,5 +58,6 @@ layout: default
                 {% endfor %}
             </div>
         </div>
+        {% endif %}
     </div>
 </div>
