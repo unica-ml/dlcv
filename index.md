@@ -13,19 +13,38 @@ The course is intended for
 * Interested participants (contact me first)
 
 
-### Course objectives and outcome
+## Course objectives and outcomes
 
-_Objectives_
+**Objectives**: to provide students with the fundamental elements of deep learning, demonstrate its application to computer vision, and form practical skills in implementing and using deep-learning-based systems. 
 
-The objective of this course is to provide students 
-with the fundamental elements of machine learning in the context of the computer vision domain. 
-The main concepts and methods of machine learning are presented, from collecting the data to training,
-as well as basic methods to properly evaluate and deploy machine learning models.
- 
-_Outcome_
+**Outcome**: An understanding of fundamental concepts and methods of deep learning and its applications, focusing on computer vision, paired with a set of tools and skills required for realizing functioning deep-learning systems.
 
-An understanding of fundamental concepts and methods of machine learning and its applications to computer vision.  
-An ability to design, train, and deploy machine learning models with PyTorch and test their performances on benchmark data sets.
+**Required skills**
 
+The course will also give the basis to understand the fundamental concepts of machine learning, so knowing them is recommended but optional.
+
+## Course Outline
+
+1. Introduction to Machine Learning and Deep Learning (2 hours)
+2. Data Representation with Tensors (2 hours)
+3. Learning from Tensors: Gradient Descent and Backpropagation (4 hours)
+4. Using a Deep Neural Network to Learn from Data (2 hours)
+5. Designing and Improving Deep-learning Models for classification (3 hours)
+6. Real-Time Object Detection with YOLO (3 hours)
+7. Running Scientific Experiments with PyTorch (4 hours)
+
+## Assessment
+
+**For MSc Students**
+
+The students can decide to take the exam in one of the following two formats (either one or the other):
+1 CFU: written examination
+2 CFU: development of a project in teams (max 3 people in each group)
+
+**For PhD Students**
+
+2 CFU: written examination
+
+---
 
 Register to this [Google Form](TODO) to get notifications about the course.
