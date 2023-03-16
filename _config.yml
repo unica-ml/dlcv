@@ -3,11 +3,11 @@ course_name: Deep Learning and Computer Vision with PyTorch
 course_description: "Deep Learning course with application on Computer Vision, using the PyTorch Library."
 
 baseurl: "/dlcv" # the subpath of your site, e.g. /blog/
-url: "http://maurapintor.github.io/dlcv" # the base hostname & protocol for your site
+url: "https://unica-ml.github.io/dlcv" # the base hostname & protocol for your site
 
 schoolname: "University of Cagliari"
 schoolurl: "https://unica.it"
-twitter_username: maurapintor 
+# twitter_username: maurapintor 
 
 address: |
     University of Cagliari
