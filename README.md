@@ -43,7 +43,7 @@ The students can decide to take the exam in one of the following two formats (ei
 
 ---
 
-Register to this [Google Form](TODO) to get notifications about the course.
+Register to this [Teams group](https://teams.microsoft.com/l/team/19%3a5RmF8CYTtuqir2ivVheUvs1jBmp9hGLA2V9H0v5yC_41%40thread.tacv2/conversations?groupId=f0b28304-632b-46ab-a049-432f17ed7cff&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1) to get notifications about the course.
 
 
 ## Acknowledgments
