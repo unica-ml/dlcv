@@ -1,6 +1,6 @@
 **Academic Year 2022-2023**
 
-The course will start on September (exact date will be updated in the near future). 
+The course will start on ~~September~~ January 2024 (exact date will be updated in the near future). 
 
 The course is intended for
 * PhD Program in Electronic and Computer Engineering University of Cagliari, Italy
