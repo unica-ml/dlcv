@@ -1,4 +1,4 @@
 ---
-date: 2023-03-13T10:00:00+1:00
+date: 2023-11-13T10:00:00+1:00
 ---
-The course will start on September.
+The course will start on January.
