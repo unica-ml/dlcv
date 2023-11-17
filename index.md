@@ -1,4 +1,4 @@
-**Academic Year 2022-2023**
+**Academic Year 2023-2024**
 
 The course will start on ~~September~~ January 2024 (exact date will be updated in the near future). 
 
