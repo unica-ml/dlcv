@@ -40,7 +40,7 @@ The students can decide to take the exam in one of the following two formats (ei
 
 **For PhD Students**
 
-* 2 CFU - written examination
+* 2.5 CFU - written examination
 
 ---
 
