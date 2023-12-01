@@ -21,13 +21,13 @@ The course will also give the basis to understand the fundamental concepts of ma
 
 ## Course Outline
 
-1. Introduction to Machine Learning and Deep Learning (2 hours)
-2. Data Representation with Tensors (2 hours)
-3. Learning from Tensors: Gradient Descent and Backpropagation (4 hours)
-4. Using a Deep Neural Network to Learn from Data (2 hours)
+1. Introduction to Machine Learning and Deep Learning (1 hour)
+2. Machine Learning Foundations (3 hours)
+3. Data Representation with Tensors (3 hours)
+4. Learning from Tensors: Gradient Descent and Backpropagation (4 hours)
 5. Designing and Improving Deep-learning Models for classification (3 hours)
 6. Real-Time Object Detection with YOLO (3 hours)
-7. Running Scientific Experiments with PyTorch (4 hours)
+7. Running Scientific Experiments with PyTorch (3 hours)
 
 ## Assessment
 
