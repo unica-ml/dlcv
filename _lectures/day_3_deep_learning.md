@@ -10,3 +10,6 @@ tldr: "Learning from Tensors: Gradient Descent and Backpropagation. Designing an
 #       name: slides
 ---
 
+**Suggested Readings:**
+- [LeCun, Yann, et al. "Gradient-based learning applied to document recognition." Proceedings of the IEEE 86.11 (1998): 2278-2324.](https://ieeexplore.ieee.org/abstract/document/726791)
+
