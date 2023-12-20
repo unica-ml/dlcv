@@ -1,4 +1,4 @@
 ---
-date: 2024-01-13T10:00:00+1:00
+date: 2023-12-20T10:00:00+1:00
 ---
-The course will start on January.
+The course will start on January 8th.
