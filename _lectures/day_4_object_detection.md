@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-01-11T14:00:00+1:00
-end: 2024-01-11T18:00:00+1:00
+date: 2024-01-11T14:00:00+0:00
+end: 2024-01-11T18:00:00+0:00
 title: Object Detection
 tldr: "Object Detection."
 # thumbnail: /static_files/presentations/course/00-course_objectives.png
