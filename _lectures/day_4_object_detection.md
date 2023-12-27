@@ -6,9 +6,9 @@ title: Object Detection
 tldr: "Object Detection."
 location: "Room A (Viale Merello)"
 # thumbnail: /static_files/presentations/course/00-course_objectives.png
-# links: 
-#     - url: /static_files/presentations/course/00-course_objectives.pdf
-#       name: slides
+links: 
+    - url: /static_files/presentations/course/06_detection.pdf
+      name: S06
 ---
 
 **Suggested Readings:**

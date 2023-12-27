@@ -6,9 +6,11 @@ title: Learning from Tensors, Deep Learning for Classification
 tldr: "Learning from Tensors: Gradient Descent and Backpropagation. Designing and Improving Deep Learning Models."
 location: "Room A (Viale Merello)"
 # thumbnail: /static_files/presentations/course/00-course_objectives.png
-# links: 
-#     - url: /static_files/presentations/course/00-course_objectives.pdf
-#       name: slides
+links: 
+    - url: /static_files/presentations/course/04_deep_learning.pdf
+      name: S04
+    - url: /static_files/presentations/course/05_design.pdf
+      name: S05
 ---
 
 **Suggested Readings:**
