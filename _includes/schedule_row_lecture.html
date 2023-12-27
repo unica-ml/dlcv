@@ -3,6 +3,9 @@
     {{ include.event.date | date: site.dateformat }}
     <br class="date-spliter"/>{{ include.event.date | date: "%A %H:%M - " }}{{ include.event.end | date: "%H:%M" }}
 </div>
+<div class="col col-1-2" data-label="Location">
+    {{ include.event.location }}
+</div>
 <div class="col col-2" data-label="Description">
     {{ include.event.title }}
     <div class="schedule-lecture-links">
