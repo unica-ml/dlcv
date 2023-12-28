@@ -1,6 +1,11 @@
 instructors:
   - name: Maura Pintor
-    profile_pic: /_images/pp/maura.jpg
+    affiliation: University of Cagliari
+    profile_pic: /_images/pp/maura_pintor.jpg
     webpage: https://maurapintor.github.io
 
 teaching_assistants:
+  - name: Antonio E. Cinà
+    affiliation: University of Genoa
+    profile_pic: /_images/pp/antonio_cina.jpg
+    webpage: https://rubrica.unige.it/personale/UkJOXVpo
