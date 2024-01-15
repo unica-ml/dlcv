@@ -8,6 +8,6 @@ location: "Room A (Viale Merello)"
 # thumbnail: /static_files/presentations/course/00-course_objectives.png
 links: 
     - url: /static_files/presentations/course/07_scientific_experiments.pdf
-      name: slides
+      name: S07
 ---
 
