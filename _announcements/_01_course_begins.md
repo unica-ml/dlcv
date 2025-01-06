@@ -1,4 +1,4 @@
 ---
-date: 2023-12-20T10:00:00+1:00
+date: 2025-01-06T10:00:00+1:00
 ---
-The course will start on January 8th.
+The new edition of this course will start on January 20th, 2025. New material and updates will be uploaded soon!
