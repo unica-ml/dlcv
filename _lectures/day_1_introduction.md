@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-20T9:00:00+1:00
+date: 2025-01-20T09:00:00+1:00
 end: 2025-01-20T13:00:00+1:00
 title: Introduction
 tldr: "Introduction to the course objectives and main outcomes. Machine learning introduction."

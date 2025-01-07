@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-23T9:00:00+1:00
+date: 2025-01-23T09:00:00+1:00
 end: 2025-01-23T13:00:00+1:00
 title: Object Detection
 tldr: "Object Detection."
