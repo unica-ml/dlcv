@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-01-10T14:00:00
-end: 2024-01-10T18:00:00
+date: 2025-01-22T9:00:00
+end: 2025-01-22T13:00:00
 title: Learning from Tensors, Deep Learning for Classification
 tldr: "Learning from Tensors: Gradient Descent and Backpropagation. Designing and Improving Deep Learning Models."
 location: "Room A (Viale Merello)"

@@ -1,6 +1,6 @@
 **Academic Year 2023-2024**
 
-The course will start on January (exact date will be updated in the near future). 
+The course will start on January 20th, 2025. 
 
 The course is intended for
 * PhD Program in Electronic and Computer Engineering University of Cagliari, Italy
@@ -15,8 +15,7 @@ The course is intended for
 
 **Outcome**: An understanding of fundamental concepts and methods of deep learning and its applications, focusing on computer vision, paired with a set of tools and skills required for realizing functioning deep-learning systems.
 
-**Required skills**
-
+**Required skills**:
 The course will also give the basis to understand the fundamental concepts of machine learning, so knowing them is recommended but optional.
 
 ## Course Outline

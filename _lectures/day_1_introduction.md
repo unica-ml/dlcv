@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-01-08T9:00:00+0:00
-end: 2024-01-08T13:00:00+0:00
+date: 2025-01-20T9:00:00+0:00
+end: 2025-01-20T13:00:00+0:00
 title: Introduction
 tldr: "Introduction to the course objectives and main outcomes. Machine learning introduction."
 location: "Room A (Viale Merello)"
