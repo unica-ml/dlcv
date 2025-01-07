@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-01-21T9:00:00+0:00
-end: 2025-01-21T13:00:00+0:00
+date: 2025-01-21T9:00:00+1:00
+end: 2025-01-21T13:00:00+1:00
 title: Data Representation with Tensors
 tldr: "Data Representation with Tensors."
 location: "Room A (Viale Merello)"

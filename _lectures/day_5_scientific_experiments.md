@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-01-24T09:00:00+0:00
-end: 2025-01-24T13:00:00+0:00
+date: 2025-01-24T09:00:00+1:00
+end: 2025-01-24T13:00:00+1:00
 title: Handling scientific Experiments
 tldr: "Handling scientific experiments."
 location: "Room A (Viale Merello)"
