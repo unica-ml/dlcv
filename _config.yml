@@ -49,3 +49,5 @@ defaults:
       type: "assignments"
     values:
       layout: "assignment"
+
+timezone: Europe/Rome
