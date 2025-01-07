@@ -1,4 +1,4 @@
-**Academic Year 2023-2024**
+**Academic Year 2024-2025**
 
 The course will start on January 20th, 2025. 
 
@@ -18,7 +18,7 @@ The course is intended for
 **Required skills**:
 The course will also give the basis to understand the fundamental concepts of machine learning, so knowing them is recommended but optional.
 
-## Course Outline
+## Course Outline (subject to slight re-adjustments)
 
 1. Introduction to Machine Learning and Deep Learning (1 hour)
 2. Machine Learning Foundations (3 hours)
