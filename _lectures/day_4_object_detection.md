@@ -4,7 +4,7 @@ date: 2025-01-23T9:00:00+1:00
 end: 2025-01-23T13:00:00+1:00
 title: Object Detection
 tldr: "Object Detection."
-location: "Room A (Viale Merello)"
+location: "Room I_ID / AN (Building I)"
 # thumbnail: /static_files/presentations/course/00-course_objectives.png
 links: 
     - url: /static_files/presentations/course/06_detection.pdf
