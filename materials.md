@@ -24,3 +24,6 @@ permalink: /material/
 * [Dive into Deep Learning](https://d2l.ai), A. Zhang, Z. C. Lipton, M. Li, A. J. Smola, 2020: https://d2l.ai
 * [Pattern Classification (2nd ed.)](https://www.wiley.com/en-it/Pattern+Classification,+2nd+Edition-p-9780471056690), R. O. Duda, P. E. Hart, e D. G. Stork, John Wiley & Sons, 2000
 * [Website / Repository](https://github.com/unica-ml/ml) of the ML course https://github.com/unica-ml/ml
+
+**Lecture from previous year by Dr. Antonio Emanuele Cinà**
+* [Handling scientific Experiments](static_files/presentations/course/_07_scientific_experiments.pdf)
