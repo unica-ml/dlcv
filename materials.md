@@ -26,4 +26,4 @@ permalink: /material/
 * [Website / Repository](https://github.com/unica-ml/ml) of the ML course https://github.com/unica-ml/ml
 
 **Lecture from previous year by Dr. Antonio Emanuele Cinà**
-* [Handling scientific Experiments](static_files/presentations/course/_07_scientific_experiments.pdf)
+* [Handling scientific Experiments](/static_files/presentations/course/cina_lecture.pdf)
