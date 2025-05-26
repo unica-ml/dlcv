@@ -35,7 +35,7 @@ The course will also give the basis to understand the fundamental concepts of ma
 The students can decide to take the exam in one of the following two formats (either one or the other):
 
 * 1 CFU - written examination
-* 2 CFU - development of a project in teams (max 3 people in each group)
+* 2 CFU - written examination + development of a project in teams (max 3 people in each group)
 
 **For PhD Students**
 
