@@ -1,6 +1,6 @@
 **Academic Year 2024-2025**
 
-The course will start on January 20th, 2025. 
+The course will start on January 19th, 2026. 
 
 The course is intended for
 * PhD Program in Electronic and Computer Engineering University of Cagliari, Italy
@@ -36,6 +36,8 @@ The students can decide to take the exam in one of the following two formats (ei
 
 * 1 CFU - written examination
 * 2 CFU - written examination + development of a project in teams (max 3 people in each group)
+
+Note that the exam is mandatory in every case to get the certificate.
 
 **For PhD Students**
 
