@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-01-20T09:00:00+1:00
-end: 2025-01-20T13:00:00+1:00
+date: 2026-01-19T09:00:00+1:00
+end: 2026-01-19T13:00:00+1:00
 title: Introduction
 tldr: "Introduction to the course objectives and main outcomes. Machine learning introduction."
 location: "Room I_ID / AN (Building I)"

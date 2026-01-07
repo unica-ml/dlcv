@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-01-22T09:00:00+1:00
-end: 2025-01-22T13:00:00+1:00
+date: 2026-01-21T09:00:00+1:00
+end: 2026-01-21T13:00:00+1:00
 title: Learning from Tensors, Deep Learning for Classification
 tldr: "Learning from Tensors: Gradient Descent and Backpropagation. Designing and Improving Deep Learning Models."
 location: "Room I_ID / AN (Building I)"
