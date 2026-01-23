@@ -11,5 +11,7 @@ links:
       name: Vision Transformers 
     - url: https://unica-mlsec.github.io/mlsec/
       name: Machine Learning Security Course
+    - url: https://www.youtube.com/@MLSec
+      name: Video Lectures on ML Security
 ---
 
